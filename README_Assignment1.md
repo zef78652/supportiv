@@ -1,7 +1,7 @@
 # supportiv
-# Sentence Similarity Estimation Using BERT and SVM
+# Sentence Rlevancy classification Using BERT and SVM
 
-This Jupyter notebook demonstrates an approach for estimating the similarity between sentences using Sentence Transformers library for encoding and various metrics, followed by training and testing an SVM model on the generated feature set.
+This Jupyter notebook demonstrates an approach for classifying whether the two sentences are relevant or not, using Sentence Transformers library for encoding and various metrics, followed by training and testing an SVM model on the generated feature set.
 
 
 ## Contents
