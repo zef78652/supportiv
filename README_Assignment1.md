@@ -1,5 +1,5 @@
 # supportiv
-# Sentence Rlevancy classification Using BERT and SVM
+# Sentence Relevancy classification Using BERT and SVM
 
 This Jupyter notebook demonstrates an approach for classifying whether the two sentences are relevant or not, using Sentence Transformers library for encoding and various metrics, followed by training and testing an SVM model on the generated feature set.
 
